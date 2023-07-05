@@ -31,6 +31,7 @@ export const Countdown = () => {
                     </div>
                     <span>:</span>
                     <div>
+                        
                         <span>{secondLeft}</span>
                         <span>{secondRight}</span>
                     </div>
