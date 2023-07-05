@@ -66,6 +66,7 @@ export const Countdown = () => {
                             >
                                 Abandonar Ciclo
                         </button>
+                        
                         ) : (
                         <button 
                             type="button" 
